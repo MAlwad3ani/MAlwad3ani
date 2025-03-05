@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hi 👋 My Name is Mohammed Alwadaani</h1>
 
 ###
 
@@ -30,11 +30,23 @@
 
 ###
 
+<h2 align="center"> Web Developer </h2>
+
+###
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<h4 align="left">I'm Mohammed Alwadaani from Saudi Arabia<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</h4>
+<h4 align="left">- 🌍 I'm based in Saudi Arabia, Jazan<br>- ✉️ You can contact me at <a href="mailto:lq0@live.com">lq0@live.com</a><br>- 🧠 I'm practicing Front End Developer<br>- 🤝 I'm open to collaborating on anything that will improve my skills.</h4>
+
+###
+
+<h5 align="left">👨‍💻 I enjoy working on web development projects and experimenting with different technologies.<br>
+🌱 Currently, my main focus is to improve my skills in front-end development using HTML, CSS, and JavaScript.<br>
+<!--💡 I also have a keen interest in learning back-end development with technologies like Node.js and MongoDB.<br>-->
+📚 Apart from programming, I love reading and keeping up with the latest trends in the tech industry.<br>
+🔭 Although I may be a relatively new user on GitHub, I am eager to collaborate, learn from others, and contribute to exciting projects.</h5>
 
 ###
 
@@ -47,11 +59,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
